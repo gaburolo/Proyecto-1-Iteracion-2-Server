@@ -1,0 +1,3 @@
+/home/ocastro/CLionProjects/Proyecto-1-Iteracion1-master/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/ocastro/CLionProjects/Proyecto-1-Iteracion1-master/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ocastro/CLionProjects/Proyecto-1-Iteracion1-master/cmake-build-debug/CMakeFiles/proyecto.dir

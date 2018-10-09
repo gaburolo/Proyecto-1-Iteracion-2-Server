@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ocastro/CLionProjects/Proyecto-1-Iteracion1-master/Single/ListaSimple.h
+iostream
+-
+
+/home/ocastro/CLionProjects/Proyecto-1-Iteracion1-master/Single/MPointer.cpp
+iostream
+-
+typeinfo
+-
+MPointerGC.h
+/home/ocastro/CLionProjects/Proyecto-1-Iteracion1-master/Single/MPointerGC.h
+stdlib.h
+-
+
+/home/ocastro/CLionProjects/Proyecto-1-Iteracion1-master/Single/MPointerGC.h
+iostream
+-
+ListaSimple.h
+/home/ocastro/CLionProjects/Proyecto-1-Iteracion1-master/Single/ListaSimple.h
+
+/home/ocastro/CLionProjects/Proyecto-1-Iteracion1-master/main.cpp
+iostream
+-
+Single/MPointer.cpp
+/home/ocastro/CLionProjects/Proyecto-1-Iteracion1-master/Single/MPointer.cpp
+Single/MPointerGC.h
+/home/ocastro/CLionProjects/Proyecto-1-Iteracion1-master/Single/MPointerGC.h
+stdlib.h
+-
+
